@@ -1,0 +1,3 @@
+Utilisateur video (Nanga): format vertical 9:16 (1080x1920) style WhatsApp stories par defaut. Audio stereo AAC obligatoire (jamais mono). 30fps minimum. Duree longue (viser 100s+). Priorite outils gratuits sans creation de compte. Francais langue de travail; sous-titres FR via Whisper base.
+§
+User "YEO NANGA JACQUES" works on Windows 11 at C:\Users\nanga, uses Hermes Agent with profiles. Prefers vertical video format (9:16, 1080x1920), French language, free tools without account creation. Recently switched from video-studio profile to gold-scalper profile for trading automation.

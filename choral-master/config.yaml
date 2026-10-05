@@ -1,0 +1,24 @@
+model:
+  default: inclusionai/ling-3.0-flash-sante:free
+  provider: nous
+  base_url: https://inference-api.nousresearch.com/v1
+  api_mode: chat_completions
+_config_version: 49
+web:
+  backend: nous
+browser:
+  cloud_provider: nous
+tts:
+  provider: nous
+stt:
+  provider: nous
+image_gen:
+  provider: nous
+platforms:
+  telegram:
+    enabled: true
+    home_channel:
+      platform: telegram
+      chat_id: '1577858240'
+      name: YEO NANGA JACQUES
+      user_id: '1577858240'
